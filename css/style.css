@@ -1,0 +1,204 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(239, 241, 248) ;
+}
+    
+.Header{
+    background-color:rgb(24, 71, 123) ;
+    color: white;
+    text-align: center;
+   margin: 15px auto;
+   padding: 20px 20px;
+   border-radius: 20PX;
+
+
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.links{
+    width: 25%;
+padding:10px 10px;
+    border-radius: 20px;
+}
+.links button{
+    width: 100%;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(42, 87, 134);
+    color: white;
+    padding: 10px 0px;
+
+}
+.float-left{
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.w-60{
+    width: 60%;
+}
+.w-100{
+    width: 100%;
+}
+.w-50{
+    width: 50%;
+}
+.about{
+    background-color: white;
+margin: 5px auto;
+padding:0px 15px ;
+border-radius: 10px;
+border:1px solid rgb(236, 242, 249);
+}
+
+.w-25{
+    width: 25%;
+}
+.w-75{
+    width: 75%;
+}
+.person img{
+    width: 80%;
+    border-radius: 50%;
+}
+.about button{
+    border: none;
+    border-radius: 5px ;
+    background-color: rgb(42, 87, 134);
+    color: white;
+    padding: 10px;
+}
+.intro p{
+margin-bottom: 20px;
+}
+.p-25{
+    padding: 25px;
+}
+.about h2 {
+    color:rgb(24, 71, 123) ;
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgb(236, 242, 249);
+    margin-bottom: 35px;
+}
+.skills{
+    background-color: white;
+margin: 15px auto ;
+padding: 15px;
+border:1px solid rgb(236, 242, 249);
+border-radius: 10px;
+
+}
+.container2{
+   width: 90%;
+    margin: auto;
+}
+.web-tec{
+    width: 25%;
+     padding:10px 10px;
+    border-radius: 10px;
+    border:1px solid rgb(236, 242, 249);
+  
+}
+.skills h3 {
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgb(236, 242, 249);
+    margin-bottom: 35px;
+    color: rgb(24, 71, 123);
+}
+.web-tec h4{
+    color: rgb(24, 71, 123);
+}
+
+.experience img{
+ width: 60%;
+  border:7px solid rgb(236, 242, 249);
+    border-radius:25px; 
+    padding: 15px;
+    background-color: white;
+
+    
+}
+.experience{
+background-color: white;
+margin: 5px auto;
+padding:0px 5px ;
+border-radius: 10px;
+border:1px solid rgb(236, 242, 249);
+width: 60%;
+}
+.container3{
+      margin: 10px 10px;
+    padding: 10px;
+    border-radius: 20px;
+border:1px solid rgb(236, 242, 249);
+background-color: rgb(239, 241, 248);
+border-left:3px solid  rgb(24, 71, 123);
+margin-bottom: 14px;
+
+}
+.experience h5{
+    color:rgb(24, 71, 123) ;
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgb(236, 242, 249);
+    margin-bottom: 35px;
+    margin: 10px;
+}
+.color{
+    color:rgb(100, 166, 198) ;
+}
+.latter{
+    background-color:rgb(24, 71, 123) ;
+    color: white;
+    
+   margin: 15px auto;
+   padding: 20px 20px;
+   border-radius: 20PX;
+
+
+}
+.container4{
+    width: 90%;
+    margin: auto;
+  
+}
+.link{
+     width: 33.333%;
+padding:10px 10px;
+    border-radius: 20px;
+}
+.link button{
+     width: 100%;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(42, 87, 134);
+    color: white;
+    padding: 10px 0px;
+}
+.latter h6{
+
+    padding-bottom: 15px;
+    border-bottom: 2px solid rgba(167, 199, 239, 0.172);
+    margin-bottom: 35px;
+    
+}
+.end{
+    background-color: rgb(6, 25, 53);
+    color: white;
+    text-align: center;
+   margin: 15px auto;
+   padding: 20px 20px;
+   border-radius: 20PX;
+
+}
+.note{
+     color:rgb(24, 71, 123);
+}
+.links a{
+    color: white;
+   
+}
